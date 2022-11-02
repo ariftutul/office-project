@@ -1,0 +1,20 @@
+.innovative {
+  background-color: #f3ecec;
+  padding: 20px 0px;
+}
+.innovative h4 {
+  font-family: 'Oswald', sans-serif;
+  color: #67676b;
+  font-size: 20PX;
+  text-transform: uppercase;
+}
+.innovative p {
+  padding-top: 7px;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #355c7d;
+}
+.innovative p span {
+  margin: 0px 5px;
+}

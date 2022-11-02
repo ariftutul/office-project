@@ -1,0 +1,122 @@
+.banner {
+  padding: 80px 0px;
+  border-bottom: 3px solid #faf7f7;
+}
+.banner .blue {
+  background-color: #355c7d;
+  box-sizing: border-box;
+  padding: 10PX 5PX;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.banner .blue p {
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #eff3f7;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.banner .red {
+  background-color: #d95b43;
+  box-sizing: border-box;
+  padding: 10PX 5PX;
+  border-bottom-left-radius: 5px ;
+  border-bottom-right-radius: 5px ;
+  display: flex;
+}
+.banner .red i {
+  padding-left: 18px;
+  color: aliceblue;
+}
+.banner .red i a {
+  text-align: center;
+  padding: 6px;
+  color: aliceblue;
+}
+.banner .picture {
+  box-sizing: border-box;
+  border: 3px solid #faf7f7;
+}
+.banner .picture img {
+  width: 100%;
+}
+.banner .picture h5 {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #428dd8;
+  text-transform: capitalize;
+  padding: 20px 0px;
+}
+.banner .picture p {
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #060708;
+  text-transform: capitalize;
+  padding: 20px 0px;
+  border: 4px solid #faf9f9;
+}
+.banner .picture .ram {
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 20px;
+  border-right: 3px solid #f0eded;
+}
+.banner .picture .ram i {
+  color: #c4c1c1;
+  font-size: 14px;
+}
+.banner .picture .ram i a span {
+  text-transform: capitalize;
+  padding-left: 10px;
+  font-size: 13px ;
+  color: #9fa2a3;
+  font-family: 'Montserrat', sans-serif;
+}
+.banner .picture .ram i a span:hover {
+  color: #0568da;
+}
+.banner .picture .ram i:hover {
+  color: red;
+}
+.banner .page {
+  padding-top: 30PX;
+  justify-content: end;
+  display: flex;
+}
+.banner .page p {
+  font-size: 15px;
+  padding: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #121518;
+  text-transform: capitalize;
+}
+.banner .page .blue1 {
+  margin-right: 3px;
+  background-color: #355c7d;
+  box-sizing: border-box;
+  padding: 12px;
+  border-radius: 4px;
+  transition: all 0.5s;
+}
+.banner .page .blue1 a {
+  font-size: 19px;
+  color: #eff3f7;
+}
+.banner .page .blue1:hover {
+  background-color: #d95b43;
+}
+.banner .page .red2 {
+  background-color: #d95b43;
+  box-sizing: border-box;
+  padding: 12px;
+  border-radius: 4px;
+  transition: all 0.5s;
+}
+.banner .page .red2 a {
+  font-size: 13px;
+  color: #eff3f7;
+}
+.banner .page .red2:hover {
+  background-color: #355c7d;
+}

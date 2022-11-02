@@ -1,0 +1,15 @@
+footer {
+  background-color: #f5eeee;
+  padding: 40px;
+}
+footer .flogo img {
+  width: 150px;
+}
+footer p {
+  text-align: center;
+  padding-top: 60px;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #355c7d;
+}

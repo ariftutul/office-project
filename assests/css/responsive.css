@@ -1,0 +1,78 @@
+
+@media (max-width: 575.98px) {
+  .banner .blue{
+    padding: 5px;
+    display: inline-block;
+  }
+  .banner .red{
+    padding: 5px;
+    display: inline-block;
+  }
+  .help{
+    padding: 50px;
+  }
+  .help ul{
+flex-direction: column;
+  position:static;
+    background-color:whitesmoke;
+    height: 20vh;
+
+  }
+  .help ul li{
+ margin: 0px;
+  }
+  .help ul li a span{
+display: none;
+  }
+  footer  p{
+    padding-top: 0px;
+  }
+}
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .help{
+    padding: 20px;
+  }
+  .help ul{
+    position: sticky;
+    background-color:whitesmoke;
+    height: 6vh;
+
+  }
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  nav ul li{
+    padding-top: 10px;
+    line-height: 20px;
+  padding-bottom: 10px;
+  }
+  .help{
+    padding: 20px;
+  }
+  .help ul{
+    position: sticky;
+    background-color:whitesmoke;
+    height: 6vh;
+
+  }
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  
+}
+
+@media (min-width: 1200px) {
+
+
+}
